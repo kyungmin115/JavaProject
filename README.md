@@ -29,6 +29,7 @@ java swing을 활용해 만든 체스 게임
 ![체크](https://github.com/user-attachments/assets/f3d90706-b74b-4113-ad5c-ca1e074ea206)
 
 5. 체크메이트 시 게임 종료 상태창 및 재시작 안내창 구현 <br />
+
 체크메이트 시 게임 종료 안내 : <br />
 
 ![체크메이트](https://github.com/user-attachments/assets/d0c183b1-fcb2-4306-aa5c-4b714bc3ce98) <br />
