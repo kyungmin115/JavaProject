@@ -36,7 +36,7 @@ java swing을 활용해 만든 체스 게임
 
 재시작 안내창 안내 : <br />
 
-      ![게임 재시작](https://github.com/user-attachments/assets/3e74fd37-2c91-45ac-86f3-ed0098dd0633) <br />
+![게임 재시작](https://github.com/user-attachments/assets/3e74fd37-2c91-45ac-86f3-ed0098dd0633) <br />
 
 예 클릭 시 새 게임으로 이동 / 아니오 클릭 시 게임 종료 <br />
 
